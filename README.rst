@@ -3,9 +3,7 @@ LTP website
 ================
 
 This is the LTP website. It is a static page built with the help of
-twitter bootstrap:
-
-twitter.github.com/bootstrap/
+twitter bootstrap: https://getbootstrap.com/.
 
 Contributing
 ------------
